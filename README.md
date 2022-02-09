@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SeFeRRRR
   - 👀 I’m interested in Python,Html,Java Script,CSS,C++,C# codding games..
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sefersoykan@gmail.com
 
 <!---
